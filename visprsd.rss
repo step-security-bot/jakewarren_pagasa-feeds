@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss version="2.0">
+  <channel>
+    <title>PAGASA VISPRSD Advisories</title>
+    <link>https://www.pagasa.dost.gov.ph/regional-forecast/visprsd</link>
+    <description>Aggregated rainfall, thunderstorm, and special forecasts from PAGASA VISPRSD</description>
+    <lastBuildDate>Fri, 22 Aug 2025 23:01:08 +0000</lastBuildDate>
+    <item>
+      <title>Rainfall Advisory No. 7 #VISPRSD</title>
+      <description><![CDATA[Heavy Rainfall Warning No. 7 #VISPRSD<br /> Weather System: Southwest Monsoon (Habagat) <br /> Issued at 05:00 AM 23 August 2025<br /> <br /> Yellow Warning: #OccidentalMindoro(Looc and Lubang)<br /> Associated Hazard: FLOODING IS POSSIBLE in low-lying areas and LANDSLIDES in mountainous areas.<br /> <br /> Meanwhile, Light to Moderate with occasionally Heavy rains affecting #OccidentalMindoro(AbraDeIlog, Calintaan, Magsaysay, Mamburao, Paluan, Rizal, Sablayan, SanJose, SantaCruz), #Palawan(Busuanga, Culion and Coron) which may persist within 2 to 3 hours and may affect nearby areas.<br /> <br /> The public and the Disaster Risk Reduction and Management Offices concerned are advised to MONITOR the weather condition and watch for the next warning to be issued at 08:00 AM Today.]]></description>
+      <category>Rainfall Advisory</category>
+    </item>
+    <item>
+      <title>Thunderstorm Advisory #VISPRSD</title>
+      <description><![CDATA[As of today, there is no Thunderstorm Advisory Issued.]]></description>
+      <category>Thunderstorm Advisory</category>
+    </item>
+    <item>
+      <title>Special Forecast: Region VI Regional Rescuelympics 2025 in Pototan, IloiloIssued at: 05:00 AM, 23 August, 2025Valid until: 05:00 AM, 24 August, 2025</title>
+      <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/Region VI Regional Rescuelympics 2025 in Pototan Iloilo_08232025_1755897364.pdf</link>
+      <description><![CDATA[Issued at: 05:00 AM, 23 August, 2025<br />Valid until: 05:00 AM, 24 August, 2025]]></description>
+      <category>Special Forecast</category>
+    </item>
+    <item>
+      <title>Special Forecast: Mt. KanlaonIssued at: 05:14 AM, 23 August, 2025Valid until: 05:14 AM, 24 August, 2025</title>
+      <link>https://d3l5rdm090s0mj.cloudfront.net/public-files/prsd-cms/visayas/special-forecasts/SWF_KANLAON_NegOcc_08232025_1755897294.pdf</link>
+      <description><![CDATA[Issued at: 05:14 AM, 23 August, 2025<br />Valid until: 05:14 AM, 24 August, 2025]]></description>
+      <category>Special Forecast</category>
+    </item>
+  </channel>
+</rss>
